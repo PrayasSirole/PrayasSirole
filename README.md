@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...my MAjor PRoject
+- 🔭 I’m currently working on ...my Major Project 
 - 🌱 I’m currently learning ... more about OpenCV
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
